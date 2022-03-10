@@ -1,0 +1,14 @@
+*~
+thumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
+AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+*.log
+*.zip
+*.tar.gz
+*.rar
