@@ -2,7 +2,7 @@
 ------------------
 *Java developer*
 
-![](/Users/olmart/Desktop/ProjectsJava/Netology/Homeworks/git_diplom/img/IMG_0388.JPG)
+![](/Users/olmart/Desktop/ProjectsJava/Netology/Homeworks/git_diplom/img/ol.png)
 
 
 Skills:
